@@ -1,6 +1,7 @@
 ###### Модель нейронной сети ___Pytorch___ (___LSTM___) классификация отзывов к фильмам (положительный, отрицательный), присвоение рейтинга отзыву.  
 
-##### Датасет  https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz 
+##### Датасет  https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz  
+
 Альтернатива - https://www.kaggle.com/datasets/fanbyprinciple/large-movie-dataset-tar
 
 
